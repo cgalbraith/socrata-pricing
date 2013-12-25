@@ -1,4 +1,4 @@
-download: d/washington.xlsx d/gsa.pdf d/sacramento.pdf d/washington.pdf d/epa-transcript.pdf d/new-york-state.pdf
+download: d/washington.xlsx d/gsa.pdf d/sacramento.pdf d/washington.pdf d/epa-transcript.pdf d/new-york-state.pdf d/hawaii.pdf
 
 d/washington.xlsx:
 	wget -O d/washington.xlsx http://des.wa.gov/SiteCollectionDocuments/ContractingPurchasing/socrata/2013-08_Socrata.xlsx
@@ -18,3 +18,6 @@ d/epa-transcript.pdf:
 
 d/new-york-state.pdf:
 	wget -O d/new-york-state.pdf http://www.ogs.state.ny.us/purchase/snt/awardnotes/7901622710Spec_OpenDataServices.pdf
+
+d/hawaii.pdf:
+	wget -O d/hawaii.pdf http://hawaii.gov/spo2/exempt103d/attachments/form071529.PDF
