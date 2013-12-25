@@ -1,0 +1,14 @@
+Usage Details:
+* 150 Datasets
+* Unlimited Views and Visualizations 
+* Unlimited Users
+* Unlimited Open Data APIs
+* 10 Premium APIs
+* Up to 5 million API calls per month
+* Unlimited Storage
+* Up to 1 TB in bandwidth per month
+* 5 Microsites
+* Native Support for Geospatial Data 
+* Up to 50,000 Geocoding Requests per month
+* Sitewide Usage Analytics
+Price is per month.
