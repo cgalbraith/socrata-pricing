@@ -1,4 +1,4 @@
-download: d/washington.xlsx d/gsa.pdf d/sacramento.pdf d/washington.pdf d/epa-transcript.pdf
+download: d/washington.xlsx d/gsa.pdf d/sacramento.pdf d/washington.pdf d/epa-transcript.pdf d/new-york-state.pdf
 
 d/washington.xlsx:
 	wget -O d/washington.xlsx http://des.wa.gov/SiteCollectionDocuments/ContractingPurchasing/socrata/2013-08_Socrata.xlsx
@@ -14,4 +14,7 @@ d/sacramento.pdf:
 	wget -O d/sacramento.pdf http://www.cityofwestsacramento.org/civica/filebank/blobdload.asp?BlobID=9779
 
 d/epa-transcript.pdf:
-	wget -O d/epa-transcript.pdf http://s3.amazonaws.com/ppt-download/socrataepatranscript-100805094426-phpapp02.pdf?response-content-disposition=attachment&Signature=mQdhKog7NmSagd9rtH%2BvCkD%2FzgQ%3D&Expires=1387996407&AWSAccessKeyId=AKIAIW74DRRRQSO4NIKA
+	echo Go to http://www.slideshare.net/webmanageruniversity/socrata-epa-transcript#
+
+d/new-york-state.pdf:
+	wget -O d/new-york-state.pdf http://www.ogs.state.ny.us/purchase/snt/awardnotes/7901622710Spec_OpenDataServices.pdf
