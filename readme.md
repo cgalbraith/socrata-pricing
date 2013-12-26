@@ -5,3 +5,6 @@ means. This is funny. If Socrata export were easier, Hawaii could
 have a competitive procurement. Because of this mild form of 
 anti-competitive vendor lock-in, Hawaii, decides that it is not
 reasonable to have a competitive procurement.
+
+## Microsites
+[Hmm](http://openprism.thomaslevine.com/#/microsite/1)
