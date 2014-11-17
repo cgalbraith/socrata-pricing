@@ -1,4 +1,4 @@
-download: d/washington.xlsx d/gsa.pdf d/sacramento.pdf d/washington.pdf d/epa-transcript.pdf d/new-york-state.pdf d/hawaii.pdf d/hawaii-2.pdf d/new-york-state-2.pdf d/austin.pdf d/uk.pdf d/chattanooga.pdf d/west-sacramento.pdf d/vermont.pdf d/weatherford.pdf d/vermont.html d/raleigh.doc
+download: d/washington.xlsx d/gsa.pdf d/west-sacramento-1.pdf d/washington.pdf d/epa-transcript.pdf d/new-york-state.pdf d/hawaii.pdf d/hawaii-2.pdf d/new-york-state-2.pdf d/austin.pdf d/uk.pdf d/chattanooga.pdf d/west-sacramento-2.pdf d/vermont.pdf d/weatherford.pdf d/vermont.html d/raleigh.doc
 
 d/washington.xlsx:
 	wget -O d/washington.xlsx http://des.wa.gov/SiteCollectionDocuments/ContractingPurchasing/socrata/2013-08_Socrata.xlsx
