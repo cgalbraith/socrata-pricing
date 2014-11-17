@@ -54,3 +54,6 @@ d/vermont.html:
 
 d/raleigh.doc:
 	wget -O d/raleigh.doc http://www.raleighnc.gov/content/BoardsCommissions/Documents/CityCouncil/Archive/Minutes/2014/CC-Minutes-20140304.doc
+
+d/connecticut.pptx:
+	wget -O d/connecticut.pptx http://www.ct.gov/best/lib/best/pug/PUG_03-12-14.pptx
